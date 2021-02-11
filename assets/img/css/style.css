@@ -1,0 +1,26 @@
+
+/* Estilos pagina index.html*/
+.center{text-align: center;}
+.container{
+    display: flex;
+    flex-flow: row ;
+    justify-content: center;
+
+}
+.menu li{display: inline;
+padding: 30px;}
+.br-50{
+    border-radius: 50%;}
+.wr{
+    width: 300px;
+    weight: 300px;
+}
+
+
+
+
+
+
+
+}
+/* Estilos pagina contato.html*/
